@@ -4,8 +4,8 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   /* config options here */
     output: "export",
-    basePath: "/hy2jung.github.io",
-    assetPrefix: "/hy2jung.github.io/",
+    basePath: "/wedding-invitation",
+    assetPrefix: "/wedding-invitation/",
     images: { unoptimized: true },
 };
 
