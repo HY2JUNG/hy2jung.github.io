@@ -1,3 +1,5 @@
+"use client";  // <- 반드시 최상단에 추가
+
 export default function Home() {
   return (
       <main style={{ textAlign: "center", padding: "100px" }}>
