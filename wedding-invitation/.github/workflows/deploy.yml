@@ -31,4 +31,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out        # 빌드 결과물
           publish_branch: gh-pages  # 배포용 브랜치
-          destination_dir: wedding-invitation/docs
+          # destination_dir: wedding-invitation/docs
